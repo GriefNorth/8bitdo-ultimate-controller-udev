@@ -45,4 +45,7 @@ install -D -m 0644 -t %{buildroot}%{_unitdir} 8bitdo-ultimate-dinput@.service
 %{_unitdir}/8bitdo-ultimate-dinput@.service
 
 %changelog
+* Fri Nov 03 2023 Alexander GriefNorth Postol <grief.north@gmail.com> 1.1-1
+- new package built with tito
+
 
